@@ -11,6 +11,7 @@ QR-code generator app is an app for generating QR codes with the ability to crea
 ### Information
 - [Installation and Setup](#installation-and-setup)
 - [Contributors](#contributors)
+- [Structure of the project and applications](#project-structure)
 - [Technologies We Used](#technologies-we-used)
 - [QR Codes](#qr-codes)
 - [Conclusion](#conclusion)
@@ -95,6 +96,16 @@ python3 manage.py runserver
 
 ---
 
+# Project structure
+
+![](media/readme/diagram.png)
+
+# Application structure
+
+![](media/readme/diagram2.png)
+
+---
+
 # Technologies We Used
 
 * Django – framework for backend and request processing.
@@ -140,6 +151,8 @@ QR-code generator app - додаток для генерації QR-кодів �
 - [Інсталяція та налаштування](#інсталяція-та-налаштування)
 <!-- toc-disable -->
 - [Учасники проекту](#учасники-проекту)
+<!-- toc-disable -->
+- [Структура проекту та додатків](#структура-проекту)
 <!-- toc-disable -->
 - [Технології які ми використовували](#технології-які-ми-використовували)
 <!-- toc-disable -->
@@ -226,6 +239,16 @@ python3 manage.py runserver
 2. [Dmytro Lomako](https://github.com/DmytroLomako)
 3. [Misha Barylo](https://github.com/Mbarilo)
 4. [Feliks Denga](https://github.com/Feliks2010)
+
+---
+
+# Структура проекту
+
+![](media/readme/diagram.png)
+
+# Структура додатків
+
+![](media/readme/diagram2.png)
 
 ---
 
